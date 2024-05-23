@@ -1,16 +1,15 @@
-## Hi there 👋
+### oi, bem vindo ao meu perfil 💗
 
-<!--
-**nicolisouza12/nicolisouza12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Nicoli Souza 
 
-Here are some ideas to get you started:
+- sou estudante da [Alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### entre em contato comigo📧
+nicoli07souza@gmail.com (pessoal)
+
+00001114774522sp@al.educacao.sp.gov.br (institucional)
+
+![](https://media.tenor.com/5t3AchIO0zcAAAAj/young-simba-hakuna-matata.gif)
+
+  
